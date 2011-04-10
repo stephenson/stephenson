@@ -1,0 +1,39 @@
+body{
+  background-color: #d7d6d8;
+  background-image: url(/images/niklas.png);
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-position:right bottom;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-shadow: #ffffff 1px 1px 1px;
+  color: #201f2d;
+}
+
+#content{
+  width: 500px;
+  padding: 20px;
+  margin: 60px;
+  background-color: rgb(215,214,216); opacity: 0.8;
+}
+
+h1{
+  font-size: 350%;
+  margin: 0;
+  padding: 0;
+}
+
+h2{
+  font-size: 140%;
+  margin: 0;
+  padding: 0;
+}
+
+p{
+  font-size: 110%;
+  line-height: 150%;
+}
+
+a{
+  border: none;
+  color: #201f2d;
+}
